@@ -18,7 +18,7 @@ const HeroSection = ({ myData }) => {
               experiences to empower your unique style and lifestyle needs."
             </p>
             <NavLink to="/">
-              <Button>show now</Button>
+              <Button>shop now</Button>
             </NavLink>
           </div>
           {/* our homepage image  */}
